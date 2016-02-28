@@ -1,0 +1,36 @@
+_repo: Authors-and-Friends_8777
+creator:
+  author:
+    agent_name: Fields, Annie
+    alias: Fields, Annie Adams
+    birthdate: 1834
+    deathdate: 1915
+    gutenberg_agent_id: '2880'
+    url: http://www.gutenberg.org/2009/agents/2880
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Adams_Fields
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Tennyson, Emily Sellwood Tennyson, Baroness, 1813-1896'
+- !lcsh 'Whittier, John Greenleaf, 1807-1892'
+- !lcsh 'Stowe, Harriet Beecher, 1811-1896'
+- !lcc 'PS'
+- !lcsh 'Thaxter, Celia, 1835-1894'
+- !lcsh 'Tennyson, Alfred Tennyson, Baron, 1809-1892'
+- !lcsh 'Longfellow, Henry Wadsworth, 1807-1882'
+- !lcsh 'Holmes, Oliver Wendell, 1809-1894'
+- !lcsh 'Emerson, Ralph Waldo, 1803-1882'
+tableOfContents: 'Longfellow: 1807-1882 -- Glimpses of Emerson -- Oliver Wendell Holmes:
+  personal recollections and unpublished letters -- Days with Mrs. Stowe -- Celia
+  Thaxter -- Whittier: notes of his life and of his friendships -- Tennyson -- Lady
+  Tennyson.'
+title: Authors and Friends
+url: http://www.gutenberg.org/ebooks/8777
