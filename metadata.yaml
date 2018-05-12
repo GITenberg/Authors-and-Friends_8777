@@ -1,4 +1,8 @@
 _repo: Authors-and-Friends_8777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fields, Annie
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2880
     wikipedia: http://en.wikipedia.org/wiki/Annie_Adams_Fields
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8777#Authors-and-Friends
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
